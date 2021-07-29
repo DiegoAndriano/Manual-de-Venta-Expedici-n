@@ -6,9 +6,9 @@ Un CRM (Customer Relationship Management, Administración de Relaciones) es un s
 
 Toda empresa necesita un CRM, ya que tiene la capacidad de mejorar ampliamente el rendimiento y efectividad a la hora de publicitar, demostrando hacia donde apuntar, y optimizando la gestión interna de clientes. Logra dar un seguimiento correcto de qué ocurrió con cada cliente, saber de donde vino y en el mejor de los casos evitar la perdida de oportunidades por traspapeleos. 
 
-Expedición entra en esta categoría de software dado que cumple con muchas características necesarias para dar un seguimiento correcto. Es un sistema web, accesible desde cualquier navegador, y puede **complementar** el crecimiento de cualquier empresa. Es multiusuario, que quiere decir que una empresa puede contar con 4 empleados que tengan acceso en simultáneo a la cuenta Expedición de la empresa. Es importante distinguir que Expedición es un sistema que puede conectarse a la página web de la empresa, pero **son entidades distintas.**
+Expedición entra en esta categoría de software dado que cumple con muchas características necesarias para dar un seguimiento correcto. Es un sistema web, accesible desde cualquier navegador, y puede **complementar** el crecimiento de cualquier empresa. Es multiusuario, que quiere decir que una empresa puede contar con 4 empleados que tengan acceso en simultáneo a la cuenta Expedición de la empresa. Es importante distinguir que Expedición es un sistema que puede conectarse a la página web de la empresa, pero **son entidades distintas.** 
 
-Nuestro objetivo es reducir la cantidad de pestañas abiertas y unificarlas en una sola. Todos los grandes canales de comunicación y análisis están en Expedición.
+Nuestro objetivo es reducir la cantidad de pestañas abiertas y unificarlas en una sola. Todos los grandes canales de comunicación y análisis están en Expedición. Esto se puede ver más adelante, en el centro de comunicaciones o en el sistema de mailing.
 
 ## Algunas features o características principales o destacadas de Expedición
 ### Conversiones y Sesiones
@@ -31,11 +31,11 @@ Además de esto, sabemos que Google crea un perfil de **todos** sus usuarios. Ex
 Al crear un cliente en Expedición, se le pueden atribuir etiquetas personalizables. Esto significa, que si el cliente tiene entre 25 y 35 años, podemos crear una etiqueta con esa descripción, y tendremos la posibilidad de segregar por grupo etario. Las etiquetas pueden ser de todo tipo, si el cliente fue a las oficinas, si realizó una compra grande, si fue pero no compro nada... El cielo es el límite.
 
 ### Sistema de campañas de mailing
-Expedición cuenta con un sistema de campañas de mailing y un sistema de templates que se ven ampliamente favorecidos por los puntos anteriores.
+Expedición cuenta con un sistema de campañas de mailing y un sistema de plantillas que se ven ampliamente favorecidos por los puntos anteriores.
 
-Nuestro sistema de mailing se relaciona **directamente** con las etiquetas utilizadas. Si estamos en proceso de creación de un producto cuyo cliente ideal tiene 30 años, si creamos la etiqueta correcta y la atribuimos a los clientes, tendremos nuestro grupo de gente que recibirá este mail.
+Nuestro sistema de mailing se relaciona **directamente** con las etiquetas personalizables utilizadas. Si estamos en proceso de creación de un producto cuyo cliente ideal tiene 30 años, si creamos la etiqueta correcta y la atribuimos a los clientes, tendremos nuestro grupo de gente que recibirá este mail.
 
-El sistema de template permite crear un mail de hermoso diseño, por medio de un campo de texto de edición y escritura, subir imágenes, o incluso por medio de código HTML. Esto permite agarrar templates ya fabricados anteriormente y reusarlos con un sencillo copiar y pegar, y tendremos velozmente nuestro template para nuestro mail masivo.
+El sistema de plantillas permite crear un mail de hermoso diseño, por medio de un campo de texto de edición y escritura, subir imágenes, o incluso por medio de código HTML. Esto permite agarrar plantillas ya fabricados anteriormente y reusarlos con un sencillo copiar y pegar, y tendremos velozmente nuestro plantillas para nuestro mail masivo.
 
 ### Plugin Wordpress
 Wordpress es una manera de hacer páginas web. Un gran porcentaje de todas las páginas a las que navegamos están hechas con Wordpress y Expedición tiene un plugin para hacer una rápida conexión entre la página web ya existente de la empresa y la cuenta de Expedición de la empresa.

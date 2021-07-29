@@ -4,7 +4,11 @@
 
 Un CRM (Customer Relationship Management, Administración de Relaciones) es un sistema de seguimiento de clientes. 
 
-Toda empresa necesita un CRM, ya que tiene la capacidad de mejorar ampliamente el rendimiento y efectividad a la hora de publicitar, demostrando hacia donde apuntar, y mejorando la capacidad de manejos internos con respecto a los clientes. Logra dar un seguimiento correcto de qué paso con cuál cliente, de donde vino, y en el mejor de los casos no perder oportunidades. Expedición entra en esta categoría de software, dado que cumple con muchas características necesarias para dar un seguimiento correcto.
+Toda empresa necesita un CRM, ya que tiene la capacidad de mejorar ampliamente el rendimiento y efectividad a la hora de publicitar, demostrando hacia donde apuntar, y mejorando la capacidad de manejos internos con respecto a los clientes. Logra dar un seguimiento correcto de qué paso con cuál cliente, de donde vino, y en el mejor de los casos no perder oportunidades. 
+
+Expedición entra en esta categoría de software, dado que cumple con muchas características necesarias para dar un seguimiento correcto. Es un sistema web, accesible desde cualquier navegador y se usa para **complementar** el crecimiento de cualquier empresa. Es multiusuario, que quiere decir que una empresa puede contra con 4 empleados que tengan acceso a la cuenta Expedición de la empresa. La cuenta Expedición y la página de internet de la empresa **son distintas.**
+
+Nuestro objetivo, es reducir la cantidad de pestañas abiertas para trabajar en una. Todos los grandes canales de comunicación y análisis están en Expedición.
 
 ## Algunas features o características principales o destacadas de Expedición
 ### Conversiones y Sesiones
@@ -33,12 +37,19 @@ Nuestro sistema de mailing se relaciona **directamente** con las etiquetas utili
 
 El sistema de template permite crear un mail de hermoso diseño, por medio de un campo de texto de edición y escritura, subir imágenes, o incluso por medio de código HTML. Esto permite agarrar templates ya fabricados anteriormente y reusarlos con un sencillo copiar y pegar, y tendremos velozmente nuestro template para nuestro mail masivo.
 
-
+### Plugin Wordpress
+Wordpress es una manera de hacer páginas web. Un gran porcentaje de todas las páginas a las que navegamos están hechas con Wordpress y Expedición tiene un plugin para hacer una rápida conexión entre la página web ya existente de la empresa y la cuenta de Expedición de la empresa.
 
 ### Chatbot
-### Plugin Wordpress
-### CDC
-### Estadísticas
+Contamos un un chatbot, que instalaremos en tu página web, que se conecta directamnete con Expedición, para registar toda conversación y nunca más perder una conversación por no haber nadie para contestar.
 
+### CDC
+Expedición cuenta con un Centro de Comunicaciones. Integramos Facebook messenger, chat, Whatsapp, Mercado Libre. Estamos en constante crecimiento, logrando centralizar todos los grandes canales de comunicación.
+
+Por ejemplo para Whatsapp, basta con tener un celular exclusivo para el uso de cdc, escanear un QR, y verás todas las conversaciones de Whatsapp de la empresa dentro del CDC. Esto siginifica, que cualquier empleado podrá ver y responder cualquier conversación, logrando un diálogo mucho mas veloz con el cliente, y dando una mejor experiencia a cliente y empleado. El único contratiempo, es que el cliente no deberá usar whatsapp web en ningun otro lugar que no sea Expedición, porque sino se dejarán de actualizar automáticamente las conversaciónes.
+
+### Estadísticas
+Contamos con un claro y hermoso sistema integrado de estadísticas con múltiples nodos de datos, incluyendo datos traídos específicamente desde nuestra conexión con Google. Gracias a nuestra conexión con este gigante tecnológico, podemos traer información de sus servidores y compararlas con la información local, mejorando ampliamente la calidad de resultados que podemos extraer de estos datos.
 
 ## ¿A quién le puede servir?
+Empresas chicas, grandes, monotributistas, toda persona con un emprendimiento que tenga que tener seguimiento de clientes y canales de comunicacion activo con ellos, ya sea para vender o para coordinar.
